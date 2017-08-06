@@ -1,0 +1,14 @@
+{
+name: "Caddy",
+description: "Urban freedom through convenient, affordable storage spread throughout the city.
+",
+image: "heroku/python",
+repository: "",
+keywords: [
+"python",
+"flask"
+],
+addons: [
+"heroku-postgresql"
+]
+}
