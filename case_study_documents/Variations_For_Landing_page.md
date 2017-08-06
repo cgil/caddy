@@ -19,7 +19,6 @@
 
 <!-- -->
 
--   Delivery to home vs. delivery to other locker location vs. no
-    > delivery
+-   Delivery to home vs. delivery to other locker location vs. no delivery
 
 -   Locker vs. person taking bag and storing it

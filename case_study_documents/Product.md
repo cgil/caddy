@@ -18,36 +18,26 @@ Use Cases For Core Model
 
 -   Promote shopping by not having worry about carrying bags
 
--   Short-term tourists with luggage looking for a convenient drop-off
-    > point
+-   Short-term tourists with luggage looking for a convenient drop-off point
 
     -   Integration to provide directions, maps, and event as promotion
 
 -   Different trip planning:
 
-    -   Before: Want to go rock climbing, then shopping, then meet
-        > friends for dinner. Would either have to carry around gym
-        > clothes and shopping all over the damn place or go home first.
+    -   Before: Want to go rock climbing, then shopping, then meet friends for dinner. Would either have to carry around gym clothes and shopping all over the damn place or go home first.
 
-    -   Now: Caddy the things you don’t need as you stop needing them
-        > and pick them up/have them delivered later
+    -   Now: Caddy the things you don’t need as you stop needing them and pick them up/have them delivered later
 
--   Artists, musicians, buskers, service people, farmers market, people
-    > with temporary work locations - convenient way to store equipment
-    > temporarily
+-   Artists, musicians, buskers, service people, farmers market, people with temporary work locations - convenient way to store equipment temporarily
 
 Initial Placement
 =================
 
--   Tourism: Placement near Times Square, Penn Station, and heavy
-    > tourist locations. Also, hostels as extra security around personal
-    > items.
+-   Tourism: Placement near Times Square, Penn Station, and heavy tourist locations. Also, hostels as extra security around personal items.
 
--   Frequent shoppers: Placement near heavily trafficked shopping
-    > centers such as SoHo, Madisan Ave, Fifth Ave, China Town
+-   Frequent shoppers: Placement near heavily trafficked shopping centers such as SoHo, Madisan Ave, Fifth Ave, China Town
 
--   Night owls: Placement near night clubs, heavily trafficked bars, and
-    > dance venues.
+-   Night owls: Placement near night clubs, heavily trafficked bars, and dance venues.
 
 Marketing
 =========
@@ -58,8 +48,7 @@ Marketing
 
 -   Flyers handed outside target venues
 
--   Make recommended answer on Yahoo Answers, Quora, Subreddits
-    > searching for locker space
+-   Make recommended answer on Yahoo Answers, Quora, Subreddits searching for locker space
 
 -   User stories and chat with excited would-be users
 
@@ -79,8 +68,7 @@ Target Beliefs
 Target Customer
 ===============
 
-1.  25-34 year old, tech-friendly, affluent city women. Frequent
-    > shoppers.
+1.  25-34 year old, tech-friendly, affluent city women. Frequent shoppers.
 
 2.  20-29 year old, tech-savvy, price-conscious, short-term tourists
 
@@ -89,8 +77,7 @@ Target Customer
  Verticals
 ==========
 
--   Caddy delivery between locations. A convenient last-mile delivery
-    > option.
+-   Caddy delivery between locations. A convenient last-mile delivery option.
 
 -   Long-term storage
 
@@ -105,5 +92,4 @@ Target Customer
 Marketing
 =========
 
--   Heineken plan - pay people to ask for the service at locations, then
-    > come in afterward asking if there’s demand
+-   Heineken plan - pay people to ask for the service at locations, then come in afterward asking if there’s demand
