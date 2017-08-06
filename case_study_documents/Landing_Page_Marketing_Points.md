@@ -1,12 +1,9 @@
 Daily Temporary Storage
 -----------------------
 
--   Live an eventful life. Drop off your bags in between events then
-    > pick them up when you're free.
+-   Live an eventful life. Drop off your bags in between events then pick them up when you're free.
 
--   Live your life freely. Drop your stuff off when you don’t need it at
-    > a nearby Caddy location. We’ll hold it safe and sound until you’re
-    > ready to have it delivered directly to your door.
+-   Live your life freely. Drop your stuff off when you don’t need it at a nearby Caddy location. We’ll hold it safe and sound until you’re ready to have it delivered directly to your door.
 
 Image:
 
@@ -22,24 +19,19 @@ Sleepy-Time Storage
 Store your valuables overnight, we'll read them a bedtime story.
 
 Image:
-
-(Sleeping): ![](media/image2.png){width="2.338542213473316in"
-height="2.338542213473316in"}
+TBD
 
 Happy Hour Calls
 ----------------
 
--   Work is over! Drop those bags in storage and enjoy your night.
-    > Request to have your bags delivered to you in the morning.
+-   Work is over! Drop those bags in storage and enjoy your night. Request to have your bags delivered to you in the morning.
 
--   Work is over! Drop your bags with Caddy and enjoy your night.
-    > Request to have your bags delivered directly to your door in the
-    > morning.
+-   Work is over! Drop your bags with Caddy and enjoy your night. Request to have your bags delivered directly to your door in the morning.
 
 Image:
 
 (Soda):
-[*http://icons.iconarchive.com/icons/graphicloads/food-drink/256/drink-icon.png*](http://icons.iconarchive.com/icons/graphicloads/food-drink/256/drink-icon.png)
+![*http://icons.iconarchive.com/icons/graphicloads/food-drink/256/drink-icon.png*](http://icons.iconarchive.com/icons/graphicloads/food-drink/256/drink-icon.png)
 
 (Wine):
 [*http://icons.iconarchive.com/icons/graphicloads/food-drink/256/drink-4-icon.png*](http://icons.iconarchive.com/icons/graphicloads/food-drink/256/drink-4-icon.png)

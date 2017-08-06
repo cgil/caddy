@@ -7,8 +7,7 @@ About the formatting:
 
 -   Make sure to hit on all the points in bold.
 
--   Allow the customer to feel, touch the product and make as many
-    > questions as possible.
+-   Allow the customer to feel, touch the product and make as many questions as possible.
 
 1. Intro
 ========
@@ -25,23 +24,13 @@ your stored items through your smartphone and request to have them
 
 **(Examples, use as appropriate)**
 
--   **Shopping:** After shopping we free our hands up for fun by putting
-    > our bags in a Caddy and going about my day, I get it delivered
-    > home after I'm done.
+-   **Shopping:** After shopping we free our hands up for fun by putting our bags in a Caddy and going about my day, I get it delivered home after I'm done.
 
--   **Work:** After work I always used carry my work bags and laptop
-    > with me to happy hour and my friends would get mad at me. Now I
-    > put them in a Caddy and in the morning I have them sent back home
-    > or to the office.
+-   **Work:** After work I always used carry my work bags and laptop with me to happy hour and my friends would get mad at me. Now I put them in a Caddy and in the morning I have them sent back home or to the office.
 
--   **Busy Life**: I go to a lot of events and I always have to lug
-    > around things with me. Instead I now get my equipment sent to the
-    > nearest Caddy near where I'm going, and it's waiting for me by the
-    > time I get there.
+-   **Busy Life**: I go to a lot of events and I always have to lug around things with me. Instead I now get my equipment sent to the nearest Caddy near where I'm going, and it's waiting for me by the time I get there.
 
--   **Gym/Exercise**: When I go to the gym or especially when I go
-    > running, I can now go to my favorite spots, leave my clothes and
-    > bags in a Caddy, exercise and then pick them up after I'm done.
+-   **Gym/Exercise**: When I go to the gym or especially when I go running, I can now go to my favorite spots, leave my clothes and bags in a Caddy, exercise and then pick them up after I'm done.
 
 2. More info
 ============
@@ -93,14 +82,11 @@ Objections
 
 *I don't think I need this.*
 
--   Don't worry! It may be hard to imagine the use cases because no
-    > service like it exists. (Tell them about use cases).
+-   Don't worry! It may be hard to imagine the use cases because no service like it exists. (Tell them about use cases).
 
 *I don’t have money on me right now.*
 
--   No problem! You don't need any money right now, just subscribe and
-    > we can send you more information on how to make your life more
-    > convenient. You can sign up and pay through the app later.
+-   No problem! You don't need any money right now, just subscribe and we can send you more information on how to make your life more convenient. You can sign up and pay through the app later.
 
 FAQ
 ===

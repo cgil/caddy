@@ -1,5 +1,4 @@
--   People think this is for long-term storage. Which does not resonate
-    > with them.
+-   People think this is for long-term storage. Which does not resonate with them.
 
 <!-- -->
 
