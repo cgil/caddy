@@ -5,8 +5,9 @@ This is a project I worked on after work and during weekends from January - Marc
 
 I worked on this with Andrew acting as the primary engineer and later recruited three friends to help pitch the product and gather customer feedback. This culminated in "selling" Caddy to street vendors in Union Square and Williamsburg.
 
-### Marketing, feedback, customer studies, designs, economics.
-Documents overviewing the process, market potential, economics, and and customer feedback can be found in the `case_study_documents` folder.
+### Documentation: Marketing, feedback, customer studies, designs, economics.
+Documents overviewing the process, market potential, economics, and and customer feedback can be found in the  folder.
+![Case study documents](https://github.com/cgil/caddy/tree/master/case_study_documents)
 
 
 ## Website
