@@ -7,7 +7,7 @@ I worked on this with Andrew acting as the primary engineer and later recruited 
 
 ### Documentation: Marketing, feedback, customer studies, designs, economics.
 Documents overviewing the process, market potential, economics, and and customer feedback can be found in the  folder.
-![Case study documents](https://github.com/cgil/caddy/tree/master/case_study_documents)
+[Case study documents](https://github.com/cgil/caddy/tree/master/case_study_documents)
 
 
 ## Website
