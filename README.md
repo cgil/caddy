@@ -9,7 +9,11 @@ I worked on this with Andrew acting as the primary engineer and later recruited 
 Documents overviewing the process, market potential, economics, and and customer feedback can be found in the `case_study_documents` folder.
 
 
-## Development
+## Website
+![Caddy demo](https://github.com/cgil/caddy/blob/master/caddy/static/img/caddy-landing-page.gif?raw=true)
+
+
+## Engineering - Getting started
 
 ### Bootstrap
 ```
